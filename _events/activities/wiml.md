@@ -1,8 +1,9 @@
 ---
 category: activity
-datetime: 2021-12-13T15:00:00Z
+datetime: 2021-12-13T15:40:00Z
 
 title: Women in Machine Learning (WiML)
 ---
 
-Details
+Host: TBA  
+Guests: TBA

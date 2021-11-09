@@ -1,8 +1,16 @@
 ---
 category: activity
-datetime: 2021-12-10T16:00:00Z
+datetime: 2021-12-10T11:20:00Z
 
-title: Mentoring Session
+title: Mentoring Roundtable Discussion
 ---
 
-Details
+Session 1: Machine Learning in Industry
+
+Mentors: TBA
+
+---
+
+Session 2: Machine Learning in Academia
+
+Mentors: TBA
