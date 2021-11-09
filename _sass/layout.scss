@@ -22,23 +22,26 @@
 }
 
 .invited-talk {
-  background-color: lighten(#c0a2c7, 10%);
+  border-left: 10px solid #e50000;
+  background-color: #eee;
   &:hover {
-    background-color: #c0a2c7;
+    background-color: #ddd;
   }
 }
 
 .author-talk {
-  background-color: lighten(#dcdddd, 10%);
+  border-left: 10px solid #15b01a;
+  background-color: #eee;
   &:hover {
-    background-color: #dcdddd;
+    background-color: #ddd;
   }
 }
 
 .activity {
-  background-color: lighten(#abced8, 10%);
+  border-left: 10px solid #f5bf03;
+  background-color: #eee;
   &:hover {
-    background-color: #abced8;
+    background-color: #ddd;
   }
 }
 
