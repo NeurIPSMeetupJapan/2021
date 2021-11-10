@@ -49,3 +49,7 @@ All dates and times are in Japan Standard Time (JST/UTC+9).
 ## Committee
 
 {% include committee.html %}
+
+## Previous Meetups
+
+- [NeurIPS Meetup Japan 2020](https://neuripsmeetup.jp/2020/)
