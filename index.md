@@ -48,7 +48,28 @@ All dates and times are in Japan Standard Time (JST/UTC+9).
 
 ## Committee
 
-{% include committee.html %}
+<table class="table table-sm">
+  <thead>
+    <tr><th colspan="2">Organizing Committee</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Nan Lu</td><td>The University of Tokyo 東京大学, RIKEN AIP 理研AIP</td></tr>
+    <tr><td>Yivan Zhang</td><td>The University of Tokyo 東京大学, RIKEN AIP 理研AIP</td></tr>
+    <tr><td>Takashi Ishida 石田 隆</td><td>The University of Tokyo 東京大学</td></tr>
+    <tr><td>Hoang NT</td><td>Tokyo Institute of Technology 東京工業大学, RIKEN AIP 理研AIP</td></tr>
+    <tr><td>Kai Arulkumaran</td><td>Araya</td></tr>
+    <tr><td>Suzana Ilic</td><td>MLTokyo, Hugging Face</td></tr>
+    <tr><td>Hikari Amano 天野 光</td><td>MathWorks Japan</td></tr>
+    <tr><td>Satoko Shimada 島田 聡子</td><td>MathWorks Japan</td></tr>
+  </tbody>
+  <thead>
+    <tr><th colspan="2">Advisory Committee</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Masashi Sugiyama 杉山 将</td><td>RIKEN AIP 理研AIP, The University of Tokyo 東京大学</td></tr>
+    <tr><td>Gang Niu</td><td>RIKEN AIP 理研AIP</td></tr>
+  </tbody>
+</table>
 
 ## Previous Meetups
 
