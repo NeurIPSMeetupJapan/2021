@@ -1,8 +1,0 @@
----
-category: invited-talk
-datetime: 2021-12-13T09:55:00Z
-
-title: Opening Remarks
-speaker: Speaker 講演者
-affiliation: Affiliation 所属
----
