@@ -36,7 +36,7 @@ Please join us!
 
 ぜひご参加ください！
 
-## Call for Participation
+## Participation
 
 TBD
 
