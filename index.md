@@ -44,7 +44,7 @@ We will send you a Zoom link via email after the registration.
 Please read and follow [Code of Conduct](https://neurips.cc/public/CodeOfConduct).
 
 登録（無料）が必要です．**12月12日**までに[登録]({{ site.register_link }})をお願いします．  
-ご登録後、メールにてZoomリンクをお送りします．  
+ご登録後，メールにてZoomリンクをお送りします．  
 参加にあたっては[Code of Conduct](https://neurips.cc/public/CodeOfConduct)の遵守をお願いします．
 
 If you have any questions, please contact us at <{{ site.contact }}>.
