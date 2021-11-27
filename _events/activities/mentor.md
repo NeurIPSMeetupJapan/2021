@@ -6,16 +6,24 @@ datetime_end:   2021-12-14T12:00:00Z
 title: Mentoring Roundtable Discussion
 ---
 
-Session 1: Machine Learning in Industry
+### Session 1: Machine Learning in Industry
 
-Host: Hikari Amano (MathWorks Japan)
+### Host
 
-Mentors: Takashi Nakano (Acute Medical Innovation)
+- Hikari Amano 天野 光 (MathWorks Japan)
+
+### Mentors  
+
+- Takashi Nakano 中野 嵩士 (Acute Medical Innovation AMI株式会社)
 
 ---
 
-Session 2: Machine Learning in Academia
+### Session 2: Machine Learning in Academia
 
-Host: Yivan Zhang (University of Tokyo)
+### Host
 
-Mentors: Feng Liu (University of Technology Sydney)
+- Yivan Zhang (The University of Tokyo 東京大学)
+
+### Mentors
+
+- Feng Liu (University of Technology Sydney)
