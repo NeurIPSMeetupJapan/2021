@@ -7,5 +7,6 @@ title: Panel Discussion
 
 Topic: Applications and Futures of Machine Learning
 
-Host: TBA  
-Guests: TBA
+Host: Takashi Ishida
+
+Guests: Satoshi Hara (Osaka University), Tarin Clanuwat (Google Brain), Hongyi Ding (Rakuten)
