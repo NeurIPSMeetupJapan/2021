@@ -44,6 +44,8 @@ Please read and follow [Code of Conduct](https://neurips.cc/public/CodeOfConduct
 **12月10日**までに[登録]({{ site.register_link }})をお願いします．  
 参加にあたっては[Code of Conduct](https://neurips.cc/public/CodeOfConduct)の遵守をお願いします．
 
+If you have any questions, please contact us at <{{ site.contact }}>.
+
 ## Schedule
 
 All dates and times are in Japan Standard Time (JST/UTC+9).
