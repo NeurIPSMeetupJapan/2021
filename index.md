@@ -39,11 +39,11 @@ Please join us!
 ## Participation
 
 The registration is free but mandatory.
-Please [register]({{ site.register_link }}) before **December 10th** to participate in NeurIPS Meetup Japan 2021.  
+Please [register]({{ site.register_link }}) before **December 12** to participate in NeurIPS Meetup Japan 2021.  
 We will send you a Zoom link via email after the registration.  
 Please read and follow [Code of Conduct](https://neurips.cc/public/CodeOfConduct).
 
-登録（無料）が必要です．**12月10日**までに[登録]({{ site.register_link }})をお願いします．  
+登録（無料）が必要です．**12月12日**までに[登録]({{ site.register_link }})をお願いします．  
 ご登録後、メールにてZoomリンクをお送りします．  
 参加にあたっては[Code of Conduct](https://neurips.cc/public/CodeOfConduct)の遵守をお願いします．
 
