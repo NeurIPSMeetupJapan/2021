@@ -5,4 +5,6 @@ datetime: 2021-12-14T15:30:00Z
 title: Social Venue
 ---
 
-Gather
+Our social session will be held in GatherTown. 
+The GatherTown link will be sent to you via email after your registration.
+If you have any questions, please contact us at neuripsmeetupjapan@gmail.com.
