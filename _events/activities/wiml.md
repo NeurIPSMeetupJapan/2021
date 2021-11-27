@@ -6,5 +6,6 @@ datetime_end  : 2021-12-13T16:10:00Z
 title: Women in Machine Learning (WiML)
 ---
 
-Host: TBA  
-Guests: TBA
+Host: Nan Lu (University of Tokyo)
+
+Guests: Yuko Kuroki (University of Tokyo), Xiaodan Shi (University of Tokyo)
