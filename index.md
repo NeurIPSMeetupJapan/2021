@@ -38,7 +38,11 @@ Please join us!
 
 ## Participation
 
-TBD
+Please [register]({{ site.register_link }}) before **December 10th** to participate in NeurIPS Meetup Japan 2021.  
+Please read and follow [Code of Conduct](https://neurips.cc/public/CodeOfConduct).
+
+**12月10日**までに[登録]({{ site.register_link }})をお願いします．  
+参加にあたっては[Code of Conduct](https://neurips.cc/public/CodeOfConduct)の遵守をお願いします．
 
 ## Schedule
 
