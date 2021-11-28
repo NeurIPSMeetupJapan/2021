@@ -15,6 +15,7 @@ title: Mentoring Roundtable Discussion
 ### Mentors  
 
 - Takashi Nakano 中野 嵩士 (Acute Medical Innovation AMI株式会社)
+- More mentors to be announced soon…
 
 ---
 
@@ -27,3 +28,4 @@ title: Mentoring Roundtable Discussion
 ### Mentors
 
 - Feng Liu (University of Technology Sydney)
+- More mentors to be announced soon…
