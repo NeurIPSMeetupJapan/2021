@@ -9,8 +9,8 @@ Welcome to **NeurIPS Meetup Japan 2021**!
 NeurIPS is a flagship conference in machine learning and more general artificial intelligence.
 This virtual NeurIPS meetup aims to bring together students, researchers, and engineers who are related to or interested in these topics for an opportunity to connect, exchange ideas, and learn from each other.
 Underrepresented minorities and undergraduates interested in machine learning are encouraged to attend.
-This meetup is going to be held in Japan Standard Time during the NeurIPS conference.
 The official languages for this meetup are **English and Japanese**.
+This meetup is going to be held on **Dec. 13th (10:00 - 16:10) and Dec 14th (09:35 - 16:30), 2021 (Japan Standard Time/ UTC+9)**.
 
 For this year's meetup, we will
 
@@ -24,7 +24,9 @@ Please join us!
 
 ---
 
-**NeurIPS Meetup Japan 2021**へようこそ！NeurIPSは機械学習及び人工知能の分野における最重要国際会議の一つです．NeurIPSのオンラインミートアップとして，機械学習・人工知能分野に関連する学生，研究者，開発者をつなぎ，交流の機会を提供することを目指します．マイノリティグループの皆様や機械学習に関心のある学部生の積極的なご参加もお待ちしております．日本時間（JST）に開催される予定で，**英語と日本語**を使用することができます．
+**NeurIPS Meetup Japan 2021**へようこそ！NeurIPSは機械学習及び人工知能の分野における最重要国際会議の一つです．NeurIPSのオンラインミートアップとして，機械学習・人工知能分野に関連する学生，研究者，開発者をつなぎ，交流の機会を提供することを目指します．マイノリティグループの皆様や機械学習に関心のある学部生の積極的なご参加もお待ちしております．
+**日本時間（JST) 2021年12月13日 (10:00 - 16:10) と12月14日 (09:35 - 16:30)** に開催される予定で，
+**英語と日本語**を使用することができます．
 
 今年のミートアップでは，以下の様々なイベント等を予定しています：
 
@@ -62,9 +64,9 @@ All dates and times are in Japan Standard Time (JST/UTC+9).
     <tr><th colspan="2">Organizing Committee</th></tr>
   </thead>
   <tbody>
-    <tr><td>Nan Lu</td><td>The University of Tokyo 東京大学, RIKEN AIP 理研AIP</td></tr>
+    <tr><td>Nan Lu</td><td>The University of Tokyo 東京大学</td></tr>
     <tr><td>Yivan Zhang</td><td>The University of Tokyo 東京大学, RIKEN AIP 理研AIP</td></tr>
-    <tr><td>Takashi Ishida 石田 隆</td><td>The University of Tokyo 東京大学</td></tr>
+    <tr><td>Takashi Ishida 石田 隆</td><td>The University of Tokyo 東京大学, RIKEN AIP 理研AIP</td></tr>
     <tr><td>Hoang NT</td><td>Tokyo Institute of Technology 東京工業大学, RIKEN AIP 理研AIP</td></tr>
     <tr><td>Kai Arulkumaran</td><td>Araya</td></tr>
     <tr><td>Suzana Ilic</td><td>MLTokyo, Hugging Face</td></tr>
