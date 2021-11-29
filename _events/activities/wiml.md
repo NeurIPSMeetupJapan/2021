@@ -16,6 +16,7 @@ While all guest speakers will identify as a woman, people of all gender identiti
 
 ### Guests
 
+- Yuka Hashimoto 橋本 悠香 (NTT Communication Science Laboratories NTTコミュニケーション科学基礎研究所) 
 - Zhengyan Gao (Preferred Networks, Inc.)
 - Ayaka Kume 久米 絢佳 (Preferred Networks, Inc.)
 - Yuko Kuroki 黒木 祐子 (The University of Tokyo 東京大学)
