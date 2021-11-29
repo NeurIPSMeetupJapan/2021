@@ -16,6 +16,7 @@ While all guest speakers will identify as a woman, people of all gender identiti
 
 ### Guests
 
+- Zhengyan Gao (Preferred Networks, Inc.)
 - Yuko Kuroki 黒木 祐子 (The University of Tokyo 東京大学)
 - Xiaodan Shi (The University of Tokyo 東京大学)
 - More speakers to be announced soon...
