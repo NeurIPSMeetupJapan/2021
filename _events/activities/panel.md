@@ -17,4 +17,4 @@ title: Panel Discussion
 - Satoshi Hara 原 聡 (Osaka University 大阪大学)
 - Tarin Clanuwat (Google Brain)
 - Hongyi Ding (Rakuten 楽天)
-- More speakers to be announced soon...
+- Nontawat Charoenphakdee (Preferred Networks, Inc.)
