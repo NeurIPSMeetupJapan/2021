@@ -21,4 +21,5 @@ While all guest speakers will identify as a woman, people of all gender identiti
 - Ayaka Kume 久米 絢佳 (Preferred Networks, Inc.)
 - Yuko Kuroki 黒木 祐子 (The University of Tokyo 東京大学)
 - Xiaodan Shi (The University of Tokyo 東京大学)
+- Ayana Niwa 丹羽彩奈 (Tokyo Institute of Technology 東京工業大学)
 - More speakers to be announced soon...
