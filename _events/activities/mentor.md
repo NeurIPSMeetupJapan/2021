@@ -32,7 +32,7 @@ title: Mentoring Roundtable Discussion
    機械学習を始める前に知っておくべきことは何ですか？
 4. Do you prefer state-of-the-art models or widely used models in deployment?  
    デプロイメントでは，最先端のモデルと広く使われているモデルのどちらがいいですか？
-5. In what situations we should use machine learning, and in what situations we don\'t need to, better not, or should not use it?  
+5. In what situations we should use machine learning, and in what situations we don't need to, better not, or should not use it?  
    どのような状況で機械学習を使うべきで，どのような状況では機械学習を使う必要がない，使わない方が良い，あるいは使うべきではないのでしょうか？
 6. How do you balance work and life, especially during the current COVID-19 situation?  
    特に現在のCOVID-19の状況下で，仕事と生活のバランスをどのようにとっていますか？
