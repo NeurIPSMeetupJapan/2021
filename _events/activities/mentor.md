@@ -6,6 +6,9 @@ datetime_end:   2021-12-14T12:00:00Z
 title: Mentoring Roundtable Discussion
 ---
 
+The following two sessions will be held simultaneously.  
+以下の2つのセッションが同時に開催されます．
+
 ## Session 1: Machine Learning in Industry
 
 ### Host
