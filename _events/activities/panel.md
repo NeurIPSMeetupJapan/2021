@@ -17,3 +17,4 @@ title: Panel Discussion
 - Satoshi Hara 原 聡 (Osaka University 大阪大学)
 - Hongyi Ding (Rakuten 楽天)
 - Nontawat Charoenphakdee (Preferred Networks, Inc.)
+- Kenny Song (Citadel AI Inc.)
