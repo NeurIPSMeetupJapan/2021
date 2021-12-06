@@ -19,7 +19,6 @@ The following two sessions will be held simultaneously.
 
 - Takashi Nakano 中野 嵩士 (Acute Medical Innovation AMI株式会社)
 - Mengyuan Shi (Indeed Tokyo)
-- More mentors to be announced soon…
 
 ### Questions
 
