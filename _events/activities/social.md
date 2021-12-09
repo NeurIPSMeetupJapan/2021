@@ -7,5 +7,5 @@ title: Social Venue
 ---
 
 Our social session will be held in [Gather](https://www.gather.town/).
-The Gather link will be sent to you via email after your registration.  
+The Gather link will be shared to all participants in the Zoom room.  
 If you have any questions, please contact us at <{{ site.contact }}>.
